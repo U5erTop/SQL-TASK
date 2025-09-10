@@ -32,3 +32,8 @@
 2. Подключитесь к вашему экземпляру SQL Server
 3. Откройте файл скрипта (File → Open → File)
 4. Выполните скрипт или его часть (F5 или кнопка "Execute")
+<div align="center">
+
+**Учебный курс** © 2025 - [U5erTop](https://github.com/U5erTop)
+
+</div>
