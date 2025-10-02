@@ -52,8 +52,7 @@
    WHERE EXISTS (SELECT 1 FROM table2 t2 WHERE t2.table1_id = t1.id)
    ```
 
-### Этап 4: Реализация курсоров (25 баллов)
-
+### Этап 4: Реализация курсоров 
 1. **Простой курсор** - обход таблицы с выводом информации
    ```sql
    DECLARE @var1 INT, @var2 VARCHAR(50)
